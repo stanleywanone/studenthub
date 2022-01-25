@@ -1,3 +1,5 @@
+Website for students that allows for collaboration, socializing and learning with each other made with React and AWS.
+
 # Studenthub.io
 
 Website is up at https://studenthub.io for initial user testing!
